@@ -1,10 +1,13 @@
 # DSBDA Mini-Project : Zomato-Restaurant-Rating-Prediction
 
 ## Team Members:
-<ol> PIYUSH BRAHANPURKAR TI06 
-     ATHARVA DHAYAGUDE T114
-     ANAY DONGRE TI15
-     ANISHA KANGO TI27</ol>
+<ol> 
+  
+     PIYUSH BRAHANPURKAR TI06 
+     ANAY DONGRE TI15 
+     ANISHA KANGO TI27 
+     
+ </ol>
 
 
 In this project we have performed exploratory data analysis on given dataset. And created a model that can predict the rating of the restaurant.
